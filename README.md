@@ -19,3 +19,9 @@ Preview website [here](./Preview.md).
 ## Certificate
 
 ![Certificate](./images/zetheta-certificate.png)
+
+## Disclaimer
+
+Zetheta requires all project repositories and source code to remain private, so the codebase cannot be browsed openly on GitHub. This hosted demo is intentionally separate: you can still explore the full application flow, UI, validation behaviour, and the work completed for the LendSwift brief.
+
+Nothing is submitted to a real server — drafts stay encrypted in your browser, and submission returns a locally generated reference number.
